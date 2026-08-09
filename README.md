@@ -54,9 +54,9 @@ Email: 201780049@psu.palawan.edu.ph
 ### Lloyd Manuel Orea
 
 <img src="GITHUB AVATAR URL" width="150" style="boarder-radius:50%;">  
-Name: 
+Name: Lloyd Manuel R. Orea
 
-Email: @psu.palawan.edu.ph
+Email: 202480135@psu.palawan.edu.ph
 
 [<img src="img/Facebook.png" width="40">](YOUR-FACEBOOK-LINK)  
 [<img src="img/Github_white.png" width="40">](YOUR-GITHUB-LINK)
